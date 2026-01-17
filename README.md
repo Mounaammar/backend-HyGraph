@@ -1,5 +1,5 @@
 # HyGraph 
-## Link to the demo video
+## Link to the demo video: https://cloud.scadsai.uni-leipzig.de/index.php/s/4sHYj96AFfDH6PT
 
 **HyGraph** is a novel hybrid system that combines **temporal property graphs** with **time series data** using PostgreSQL with Apache AGE and TimescaleDB extensions. It enables hybrid queries and analysis.
 
