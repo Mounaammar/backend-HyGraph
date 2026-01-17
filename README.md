@@ -1,5 +1,5 @@
-# HyGraph - Hybrid Temporal Graph Database
-
+# HyGraph 
+## Link to the demo video
 
 **HyGraph** is a novel hybrid system that combines **temporal property graphs** with **time series data** using PostgreSQL with Apache AGE and TimescaleDB extensions. It enables hybrid queries and analysis.
 
