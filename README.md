@@ -528,6 +528,4 @@ print(f"Ingested: {stats}")
 | `global_.graph.density()` | Graph density over time |
 | `entities.nodes.degree(node_id)` | Per-node degree evolution |
 
-##  License
 
-MIT License - see [LICENSE](LICENSE) for details.
